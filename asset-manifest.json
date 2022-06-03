@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bismilla/static/css/main.1dc01256.css",
+    "main.js": "/bismilla/static/js/main.1f2053ea.js",
+    "static/js/787.a8e80abc.chunk.js": "/bismilla/static/js/787.a8e80abc.chunk.js",
+    "index.html": "/bismilla/index.html",
+    "main.1dc01256.css.map": "/bismilla/static/css/main.1dc01256.css.map",
+    "main.1f2053ea.js.map": "/bismilla/static/js/main.1f2053ea.js.map",
+    "787.a8e80abc.chunk.js.map": "/bismilla/static/js/787.a8e80abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dc01256.css",
+    "static/js/main.1f2053ea.js"
+  ]
+}
